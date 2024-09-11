@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Modelo de obra"
-date: 2022-10-09
+title: "Estrella en la infinidad"
+date: 2024-09-11
 thumbnail: thumbnail.png
 dependencies:
   - p5
@@ -14,22 +14,18 @@ dependencies:
 
 _Nombre y Apellido del/la autor/a_, 2022.
 
-**Título de la obra**
+**Estrella en la infinidad**
 
-Esta será una breve descripción de la obra (mín 150 - máx 200 palabras). Facilisis gravida neque convallis a cras semper auctor. Nec tincidunt praesent semper feugiat nibh. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Quam quisque id diam vel quam elementum pulvinar etiam. Eu sem integer vitae justo eget magna fermentum iaculis. Faucibus scelerisque eleifend donec pretium vulputate sapien. Felis donec et odio pellentesque diam volutpat. Nullam non nisi est sit amet facilisis.
+La creación artística presentada se basa en las obras de la artista Grace Hertlein, quien comenzó su trayectoria como artista a mediados del 1940 y fue  líder de la segunda ola de artistas programáticos. Una de sus frases más representativas fue que "La enseñanza del arte informático es un puente que une 'el arte y la ciencia”. Dicha artista destacó al esforzarse por recrear la naturaleza oponiéndose a la precisión y formalidad de la computadora, siendo común la inexactitud en sus obras.
+La elección realizada se debió a la manera de cautivar mi atención a partir de la profundidad que capté en sus obras, la disposición de las figuras y cantidad de circunferencias utilizadas que fueron inspiración para mi creación artística. Además, generó sensaciones de profundidad con las transparencias utilizadas y la repetición de circunferencias que en mi mente se asemejarían con túneles y planetas
+
 
 **Desarrollo técnico, estético y conceptual**
 
-Desarrollo técnico, estético y conceptual (describa en un mínimo de 200 y un máximo de 500 palabras las características técnicas, estéticas, conceptuales, referentes artísticos y bibliografía utilizada). Pretium viverra suspendisse potenti nullam ac. Diam vulputate ut pharetra sit amet. Pellentesque pulvinar pellentesque habitant morbi. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Turpis egestas integer eget aliquet nibh praesent tristique magna sit. Convallis aenean et tortor at risus viverra adipiscing at in. At quis risus sed vulputate odio ut enim blandit volutpat. Sed felis eget velit aliquet sagittis. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur. Consequat nisl vel pretium lectus quam id. Libero id faucibus nisl tincidunt eget nullam. Mi sit amet mauris commodo quis imperdiet. Faucibus interdum posuere lorem ipsum dolor sit. Ultrices neque ornare aenean euismod elementum nisi quis. Faucibus a pellentesque sit amet porttitor eget dolor morbi non. Nullam eget felis eget nunc lobortis mattis aliquam faucibus purus. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-
-In aliquam sem fringilla ut morbi tincidunt augue. Adipiscing at in tellus integer feugiat scelerisque varius. Sed nisi lacus sed viverra. Neque gravida in fermentum et sollicitudin ac. Erat imperdiet sed euismod nisi porta lorem mollis. Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae. Id nibh tortor id aliquet lectus. Nam at lectus urna duis convallis convallis tellus id. Magna etiam tempor orci eu lobortis elementum. Pharetra et ultrices neque ornare aenean euismod elementum nisi quis. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sit amet tellus cras adipiscing. Turpis nunc eget lorem dolor sed viverra.
-
-Lorem sed risus ultricies tristique nulla. Non enim praesent elementum facilisis leo vel fringilla est ullamcorper. Ut tortor pretium viverra suspendisse potenti nullam. At lectus urna duis convallis. Fermentum et sollicitudin ac orci. Vestibulum lectus mauris ultrices eros in cursus. Nunc id cursus metus aliquam. Vitae purus faucibus ornare suspendisse sed. Ultricies tristique nulla aliquet enim tortor at auctor urna nunc. A diam sollicitudin tempor id eu. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Platea dictumst quisque sagittis purus sit amet.
+Esta creación artística, definida así por Brea, comenzó siendo un lienzo blanco y liso de una medida horizontal y vertical de quinientos doce que llevaba a volar la imaginación. Utilizando como referencia la obra recientemente nombrada de la artista Hertlein e inspirándome en ella, en mi lienzo busqué combinar distintos elementos simulando un cielo nocturno estrellado. A partir de ello y luego de varios intentos, logré que el fondo de mi lienzo se asemeje a una noche estrellada utilizando pequeñas ellipses cuyos colores abarcan la escala de grises y se distribuyen a lo largo de todo el lienzo de manera aleatoria. La elipse central que constituye la figura primordial se compone por 7 circunferencias de menor tamaño, dentro de cada una de ellas se observan pequeñas ellipses que las conforman y que se mantienen en constante movimiento recorriendolas. Esto produciría un efecto visual al observar cómo la ellipse comienza a colmarse de color de manera progresiva, comenzando desde el centro de la figura hacia los bordes. Finalizando con la estructura principal, creé una serie de triángulos que la conforman y que el usuario podría ver únicamente interaccionando con la obra y haciendo click sobre ella, de esta manera se asemejaría a una estrella rodeada por el univerno.
+Por último, al presionar sobre cualquier letra del teclado se podrán visualizar las elipses principales repetidas en distintas posiciones del lienzo que tendrán un efecto visual sobre el espectador. 
+Esta producción artística resulta de una inspiración de una obra anteriormente creada a la cual logré incorporarle innovación propia, comenzando así el largo trayecto que me permitirá encontrar la identidad de mi arte. Estas nuevas formas de arte digital e interactivo han creado nuevas posibilidades tanto para los artistas -ya sea para crear y compartir su arte- como para los observadores, quienes no solo tienen la oportunidad de vivir nuevas formas de arte sino también nuevas experiencias al poder interactuar con las creaciones artísticas. 
 
 **Bibliografía**
-
-FRICKE, Christiane. (1999). _"Nuevos Medios"_ en AAVV. Arte de siglo XX. Vol. II. München: Taschen.
-
-GROYS, Boris. (2016). _"Arte en flujo. Ensayos sobre la evanescencia del presente"_. Buenos Aires: Caja Negra.
-
-TAYLOR, Diana. (2012). _"¿Cuáles son los antecedentes del arte de performance?"_ en Performance. Buenos Aires: Asunto Impreso.
+- BREA, José Luis. (2002). “Breve (y desordenado) antiglosario –o diccionario de tópicos- sobre el arte electrónico” en La era postmedia. Acción comunicativa, prácticas (post)artísticas y dispositivos neomediales. Salamanca: CASA Editorial, pp. 4-8.
+-  BREA, José Luis. (2008). “Redefinición de las prácticas artísticas (s. 21)” en El tercer umbral. Estatuto de las prácticas artísticas en la era del capitalismo cultural. Murcia: CENDEAC, pp. 106-113.
